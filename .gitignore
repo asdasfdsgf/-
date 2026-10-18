@@ -1,0 +1,19 @@
+# Python 虚拟环境与缓存
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+
+# PyInstaller 中间产物
+build/
+
+# 运行时音频产物
+_*.wav
+降噪_*.wav
+录音/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

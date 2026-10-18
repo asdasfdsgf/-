@@ -1,0 +1,7 @@
+{
+  "samplerate": 48000,
+  "blocksize": 480,
+  "input_device": "电容麦 (2- Usb Audio Device)",
+  "output_device": "CABLE Input (VB-Audio Virtual C",
+  "virtual_routed": true
+}

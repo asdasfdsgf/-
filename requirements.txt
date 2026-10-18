@@ -1,0 +1,7 @@
+numpy>=1.26
+sounddevice>=0.4.6
+scipy>=1.11
+pystray>=0.19
+pillow>=10.0
+pyrnnoise>=0.4.5
+onnxruntime>=1.17

@@ -1,0 +1,17 @@
+{
+  "params": {
+    "threshold_db": -34.97227356746765,
+    "attack_ms": 0.5,
+    "release_ms": 220.0,
+    "hold_ms": 80.0,
+    "atten_db": 60.0,
+    "denoise": 70.79482439926062,
+    "hp_hz": 100.22181146025879,
+    "gain_db": 1.5083179297597038
+  },
+  "samplerate": 48000,
+  "blocksize": 512,
+  "monitor": true,
+  "input_device": 1,
+  "output_device": 4
+}
